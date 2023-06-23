@@ -4,8 +4,10 @@
   "description": "",
   "private": true,
   "devDependencies": {
+    "css-loader": "^6.8.1",
     "html-webpack-plugin": "^5.5.3",
     "lodash": "^4.17.21",
+    "style-loader": "^3.3.3",
     "webpack": "^5.88.0",
     "webpack-cli": "^5.1.4"
   },
