@@ -4,6 +4,7 @@
   "description": "",
   "private": true,
   "devDependencies": {
+    "html-webpack-plugin": "^5.5.3",
     "lodash": "^4.17.21",
     "webpack": "^5.88.0",
     "webpack-cli": "^5.1.4"
